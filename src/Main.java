@@ -12,8 +12,8 @@ class Student {
 public class Main {
     public static void main(String[] args) {
         Student student = new Student();
-        student.name = "John Doe";
-        student.rollNumber = 101;
+        student.name = "Aron";
+        student.rollNumber = 26;
         student.grade = 'A';
         student.displayDetails();
     }
